@@ -1,0 +1,6 @@
+# ninja log v5
+0	30	7194307630832000	build.ninja	2d76c2b4f12c552f
+76	107	1670373933347212310	cachelab	f97254ae5a26ade6
+146	207	1670375804378286798	cachelab-jscollo	c8ed07f9364dba07
+0	114	7194308213091968	CMakeFiles/cachelab-jscollo.dir/cachelab-jscollo.c.obj	b371cc7754d6efcf
+115	230	7194308214207300	cachelab-jscollo.exe	d23166d02b614e6d

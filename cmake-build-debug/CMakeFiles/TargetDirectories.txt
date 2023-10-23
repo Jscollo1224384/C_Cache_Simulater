@@ -1,0 +1,3 @@
+C:/Users/Joseph/Desktop/cachelab/cmake-build-debug/CMakeFiles/cachelab-jscollo.dir
+C:/Users/Joseph/Desktop/cachelab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Joseph/Desktop/cachelab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
